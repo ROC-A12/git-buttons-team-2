@@ -8,6 +8,8 @@ const motds = [
     "Holy cow, man!",
     "The bee's knees!",
     "Ceci n'est pas une title screen!",
+    "나는 특정 피부색의 사람들을 싫어한다",
+    
 ];
 
 const getRandomInt = function(min, max) {
